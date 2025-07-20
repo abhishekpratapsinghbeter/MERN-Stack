@@ -66,21 +66,21 @@ With a **clean, intuitive UI and robust backend**, it enables effortless content
 
 Follow these steps to set up and run **BlogsApp** locally:
 
-### 1️⃣ Clone the Repository
 
-1. **📥 Clone the Repository:**
+
+### 1. **📥 Clone the Repository:**
 
    ```sh
    git clone https://github.com/your-repo/blogsapp.git
    ```
 
-2. **📂 Navigate to the Project Directory:**
+### 2. **📂 Navigate to the Project Directory:**
 
    ```sh
    cd blogsapp
    ```
 
-3. **📦 Install Dependencies:**
+### 3. **📦 Install Dependencies:**
 
    ```sh
    npm install
@@ -92,11 +92,11 @@ Follow these steps to set up and run **BlogsApp** locally:
    yarn install
    ```
 
-4. **⚙️ Configure the Application:**
+### 4. **⚙️ Configure the Application:**
 
    - Set up environment variables and update application settings as needed.
 
-5. **▶️ Run the Application:**
+### 5. **▶️ Run the Application:**
 
    ```sh
    npm start
