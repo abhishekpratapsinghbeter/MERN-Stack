@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/MERN-AttendXpert-brightgreen" alt="AttendXpert Badge">
   <img src="https://img.shields.io/badge/Status-Active-blue">
-  <img src="https://img.shields.io/badge/License-MIT-yellow">
 </p>
 
 <h1 align="center">🎯 AttendXpert</h1>
