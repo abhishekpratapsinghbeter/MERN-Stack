@@ -167,7 +167,4 @@ For collaborations, mentorship, or discussions:
 <h1 align="center">
   Made with ❤️ by <b>Abhishek Pratap Singh</b>
 </h1>
-```
-
----
 
