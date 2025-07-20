@@ -129,4 +129,8 @@ For any inquiries or support, please contact:
 
 ---
 
-Made with ❤️ by **Abhishek Pratap Singh**.
+<h2 align="center">
+  Made with ❤️ by <b>Abhishek Pratap Singh</b>
+</h2>
+
+---
