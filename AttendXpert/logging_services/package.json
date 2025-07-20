@@ -1,0 +1,23 @@
+{
+  "name": "logging_and_monitoring_services",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abhishek",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.2",
+    "nodemon": "^3.1.0",
+    "os": "^0.1.2",
+    "prom-client": "^15.1.2",
+    "winston": "^3.13.0"
+  }
+}
