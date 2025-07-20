@@ -80,9 +80,6 @@ This microservice structure enables **independent scalability, easier debugging,
 Here is your **clean, fully structured, properly formatted `README.md` section** for:
 
 ## 🚦 Installation & Running Locally
-
-ready to **copy-paste directly** into your `AttendXpert/README.md` without breaking GitHub formatting.
-
 ---
 
 ## 🚦 Installation & Running Locally
@@ -206,9 +203,9 @@ For queries, support, or collaboration opportunities:
 
 ---
 
-<p align="center">
+<h2 align="center">
   Made with ❤️ by <b>Abhishek Pratap Singh</b>
-</p>
+</h2>
 
 ---
 
