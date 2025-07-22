@@ -37,12 +37,12 @@ Noble Saint Gym Management System is designed to:
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React.js, Tailwind CSS
+- **Frontend:** React.js, CSS
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB (Mongoose)
 - **Authentication:** JWT
-- **State Management:** Redux / Context API
-- **Deployment:** Netlify / Vercel / Render
+- **State Management:**  Context API
+- **Deployment:** Render
 
 ---
 
@@ -51,7 +51,7 @@ Noble Saint Gym Management System is designed to:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-repo/noble-saint-gym.git
+git clone https://github.com/abhishekpratapsinghbeter/MERN-Stack/tree/main/Noble-saint-management
 cd noble-saint-gym
 ````
 
@@ -100,7 +100,7 @@ Visit your app locally at: [http://localhost:3000](http://localhost:3000)
 ## 🌐 Deployment
 
 * 🚀 **Frontend:** Netlify / Vercel
-* 🚀 **Backend:** Render / Fly.io
+* 🚀 **Backend:** Render 
 * ⚙️ Configure environment variables in the deployment dashboard.
 
 ---
